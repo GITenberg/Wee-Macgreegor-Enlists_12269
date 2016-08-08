@@ -1,0 +1,31 @@
+_repo: Wee-Macgreegor-Enlists_12269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, J. J. (John Joy)
+    alias: Bell, John Joy
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '3182'
+    url: http://www.gutenberg.org/2009/agents/3182
+    wikipedia: http://en.wikipedia.org/wiki/John_Joy_Bell
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Wee Macgreegor Enlists
+url: http://www.gutenberg.org/ebooks/12269
